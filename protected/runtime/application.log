@@ -1,0 +1,160 @@
+2013/11/19 17:03:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:04:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:05:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:06:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:07:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:07:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:08:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:13:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:15:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:15:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:15:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:17:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:17:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:17:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:17:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
+2013/11/19 17:17:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php:483
+Stack trace:
+#0 C:\Program Files (x86)\Ampps\www\prints\framework\web\CController.php(270): CController->missingAction('cart')
+#1 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 C:\Program Files (x86)\Ampps\www\prints\framework\web\CWebApplication.php(141): CWebApplication->runController('site/cart')
+#3 C:\Program Files (x86)\Ampps\www\prints\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\Program Files (x86)\Ampps\www\prints\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/prints/index.php?r=site/cart
+---
