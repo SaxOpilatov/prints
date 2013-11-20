@@ -81,7 +81,7 @@
 	</table>
 	
 	<div class="btn_ctrl">
-		<a href="#" class="btn btn-blue btn-arr_r right">Оформить покупку</a>
+		<a href="<?php echo Yii::app()->request->baseUrl; ?>/index.php?r=site/checkout" class="btn btn-blue btn-arr_r right">Оформить покупку</a>
 		<a href="#" class="btn btn-green btn-arr_r right">Информация о доставке</a>
 	</div>
 	

@@ -110,4 +110,12 @@ class SiteController extends Controller
     public function actionCart() {
         $this->render('cart');
     }
+    
+    public function actionCheckout() {
+        $this->render('checkout');
+    }
+    
+    public function actionProduct() {
+        $this->render('product');
+    }
 }
